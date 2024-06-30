@@ -112,6 +112,10 @@ section ul li:hover {
     border: 1px solid #443E54;
 }
 
+.social-list img {
+    width: 2em;
+}
+
 /* ANIMATION */
 
 /* O elemento que quero aplicar a animação */
